@@ -1,6 +1,6 @@
 # roleplay_website
 
-Website created by using Vue 2 + Boostrap Vue and AOS to make animation more simple.
+Website created by using Vue 2 + Boostrap Vue and AOS to make animation more simple. </br>
 **[DEMO](https://vueroleplaywebsite.herokuapp.com/)**
 
 ## Project setup
